@@ -1,3 +1,3 @@
 # FM-FIB
 
-Apuntes y PDFs de FM. (NO hya gran cosa)
+Apuntes y PDFs de FM. (NO hay gran cosa)
